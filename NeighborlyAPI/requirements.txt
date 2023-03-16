@@ -1,0 +1,2 @@
+azure-functions
+pymongo==3.10.1
